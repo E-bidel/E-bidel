@@ -29,7 +29,7 @@ Passionate about building scalable web applications, AI-powered systems, and hig
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/erfanbidel">
+<a href="https://linkedin.com/in/erfan-bidel">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
